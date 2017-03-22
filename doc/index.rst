@@ -9,12 +9,12 @@ Welcome to build's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 3
-   
-   introduction
-   detail
-   hello
+   :maxdepth: 2
 
+   intro
+   strings
+   datatypes
+   numeric
 
 Indices and tables
 ==================
