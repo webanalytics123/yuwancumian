@@ -13,7 +13,7 @@ Contents:
    :maxdepth: 2
 
    array/index
-
+   string/index
 
 
 .. Indices and tables

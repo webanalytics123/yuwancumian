@@ -1,14 +1,14 @@
 .. build documentation master file, created by
 
-Array
+String
 ==============
 
-This part will cover most of the arrays.
+This part will cover most of the string.
 
 
 .. toctree::
    :numbered:
    :maxdepth: 2
 
-   lonely_pixels
+   string_questions
 
