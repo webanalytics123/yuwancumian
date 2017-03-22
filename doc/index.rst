@@ -11,10 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   intro
-   strings
-   datatypes
-   numeric
+
 
 Indices and tables
 ==================
@@ -23,4 +20,3 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
-	
