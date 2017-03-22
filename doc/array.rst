@@ -1,4 +1,3 @@
-.. _array:
 
 Lonely Pixel
 ===========

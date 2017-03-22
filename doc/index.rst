@@ -9,6 +9,7 @@ Welcome to build's documentation!
 Contents:
 
 .. toctree::
+   :numbered:
    :maxdepth: 2
 
    array
