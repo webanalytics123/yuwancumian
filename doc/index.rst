@@ -9,8 +9,11 @@ Welcome to build's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
-
+   :maxdepth: 3
+   
+   introduction
+   detail
+   hello
 
 
 Indices and tables
@@ -20,3 +23,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+	
